@@ -71,4 +71,4 @@ Professors spend hours weekly managing repetitive tasks like updating timetables
 
 ---
 
-> 💬 “This experience showed the power of combining AI, automation, and teamwork to solve real academic challenges.”
+“This experience showed the power of combining AI, automation, and teamwork to solve real academic challenges.”
